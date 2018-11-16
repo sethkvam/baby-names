@@ -1,0 +1,28 @@
+/*
+	This file provides the CSS styling for the Baby Names website.
+*/
+
+body {
+	font-size: 12pt;
+	font-family: Georgia, serif;
+}
+
+q {
+	font-style: italic;
+}
+
+#graph tr td div {
+	background-color: #FFBBBB;
+	width: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+td {
+	height: 250px;
+	vertical-align: bottom;	
+}
+
+.topten {
+	color: red;
+}
